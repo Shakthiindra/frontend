@@ -53,11 +53,11 @@
 }
 @media(max-width:800px){
     .item{
-        width: 120px;
+        width: 145px;
         font-size: 12px;
     }
     .item img{
-        width: 120px;
+        width: 145px;
     }
     .item-price-old{
         font-size: 12px;
@@ -65,9 +65,9 @@
 }
 @media(max-width:500px){
     .item{
-        width: 160px;
+        width: 120px;
     }
     .item img{
-        width: 160px;
+        width: 120px;
     }
 }
